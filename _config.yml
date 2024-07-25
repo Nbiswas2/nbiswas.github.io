@@ -25,7 +25,7 @@ author:
   name             : "Nilanjan Biswas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Madison, Wisconsin"
+  location         : "https://www.google.com/maps/place/University+of+Wisconsin-Madison/@43.0765958,-89.4171009,17z/data=!3m2!4b1!5s0x88065334ca583b21:0x5b9dd1fd3cfe6f5c!4m6!3m5!1s0x8807ac950a7f481d:0xc9e065e091733a64!8m2!3d43.076592!4d-89.4124875!16zL20vMDF5eDFi?entry=ttu"
   employer         : "University of Wisconsin-Madison"
   uri              : "https://nelson.wisc.edu/"
   email            : "nbiswas2@wisc.edu" 
